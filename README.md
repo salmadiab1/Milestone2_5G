@@ -1,0 +1,2 @@
+- Each I and Q symbol are represented in a byte
+- I started by calculating all needed calculations to find no of packets per symbol
