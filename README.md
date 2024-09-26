@@ -1,2 +1,5 @@
 - Each I and Q symbol are represented in a byte
 - I started by calculating all needed calculations to find no of packets per symbol
+- Ecpri header is 8 bytes
+- Oran total header is 8 bytes
+- payload size is determined from config file and removing headers and crc bytes
